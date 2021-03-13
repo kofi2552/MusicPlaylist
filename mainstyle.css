@@ -362,7 +362,7 @@ p{
 
 
 /*-----------------------------------------------------------------RESPONSIVE MEDIA---------....................---------------------------*/
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 430px) {
   .container {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 0.2fr 1.2fr 1.2fr 1.2fr 1.2fr 1.2fr 1.2fr 1fr;
